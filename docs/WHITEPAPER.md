@@ -1,7 +1,7 @@
 # Potify ID
 ## Whitepaper · public developer edition
 
-**November 25, 2026 · Local identity pilot**
+**November 25, 2026 · Two-app pilot and website integration source**
 
 ### Goal and audience
 
@@ -17,7 +17,7 @@ Eight local scenarios passed using disposable keys and two fixture applications.
 
 ### Evidence and outstanding work
 
-A deployed issuer, recovery on iPhone and independent partner adoption remain outstanding. The next acceptance case is concrete. Complete both test apps, revoke one grant and confirm that a check-in pass cannot be redeemed twice.
+Local two-app tests and actual website branch source are verified. A deployed issuer, recovery on iPhone and independent partner adoption remain outstanding. The next acceptance case is concrete. Complete both test apps, revoke one grant and confirm that a check-in pass cannot be redeemed twice.
 
 ### Place in POTIFY
 

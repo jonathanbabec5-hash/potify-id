@@ -9,6 +9,22 @@ potify-id/
 │   ├── PILOT.md
 │   ├── WHITEPAPER.md
 │   └── source.json
+├── reference/
+│   └── website/
+│       ├── artifacts/
+│       │   ├── api-server/
+│       │   │   └── src/
+│       │   │       └── routes/
+│       │   │           └── potify-id.ts
+│       │   └── potify/
+│       │       └── src/
+│       │           └── pages/
+│       │               └── potify-id.tsx
+│       └── lib/
+│           └── db/
+│               └── src/
+│                   └── schema/
+│                       └── potify-id.ts
 ├── src/
 │   ├── persona.sql
 │   ├── pilot.mjs

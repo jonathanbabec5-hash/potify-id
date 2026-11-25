@@ -2,7 +2,7 @@
 
 [Complete repository directory tree](docs/DIRECTORY.md)
 
-**Local identity pilot.** Let someone carry credit for a contribution from the Greenhouse to a creator screening.
+**Two-app pilot and website integration source.** Let someone carry credit for a contribution from the Greenhouse to a creator screening.
 
 ### Setup and usage
 
@@ -16,7 +16,7 @@ Run the two-app example.
 
 ### Developer entry points
 
-A fixture maps proven wallets to a single member, derives app-specific subjects, tracks grants and redeems a single-use attendance pass. Explore `src/` in the full tree.
+A fixture maps proven wallets to a single member, derives app-specific subjects, tracks grants and redeems a single-use attendance pass. Explore `reference/`, `src/` in the full tree.
 
 ### Verification
 
@@ -28,7 +28,7 @@ node src/run.mjs
 
 ### Release scope
 
-A deployed issuer, recovery on iPhone and independent partner adoption remain outstanding. POTIFY_ID_Partner_Pilot.zip, November 23. Portable two-app identity fixture. All example signing keys are generated in memory and discarded.
+Local two-app tests and actual website branch source are verified. A deployed issuer, recovery on iPhone and independent partner adoption remain outstanding. POTIFY_ID_Partner_Pilot.zip, November 23. Portable two-app identity fixture. All example signing keys are generated in memory and discarded. Original account-linking route, page and schema are included as reference from the separate website release branch at a5ba9a17da0a481a60b9be02b8b5bd71d9207d7f. The local pilot and branch are distinct implementations. Deployment remains unverified.
 
 [Technical whitepaper](docs/WHITEPAPER.md) · [Marketing and sales plan](docs/MARKETING.md) · [Dated developer log](docs/BUILD-LOG.md)
 
