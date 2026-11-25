@@ -1,0 +1,8 @@
+{
+  "name": "potify-id",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "check:public": "node src/run.mjs"
+  }
+}

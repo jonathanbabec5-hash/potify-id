@@ -1,0 +1,7 @@
+{
+  "project": "Potify ID",
+  "kind": "Local identity pilot",
+  "source": "POTIFY_ID_Partner_Pilot.zip, November 23. Portable two-app identity fixture. All example signing keys are generated in memory and discarded.",
+  "scope": "A deployed issuer, recovery on iPhone and independent partner adoption remain outstanding.",
+  "prepared": "2026-11-25"
+}
