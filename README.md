@@ -2,6 +2,14 @@
 
 [Complete repository directory tree](docs/DIRECTORY.md)
 
+## Credit that can travel without carrying a whole identity
+
+Someone tends a community project and later turns up at a screening. The organizer might need to know they earned a badge. They do not need every address the person has used. Potify ID makes that distinction concrete in two small fixture apps.
+
+In the [two-app pilot](src/pilot.mjs), a member can have different identifiers in different apps. The [local demonstration](src/run.mjs) generates disposable keys, grants a particular disclosure and exercises an attendance pass. That lets a developer follow what the organizer actually sees without recruiting a real attendee.
+
+Trace a pass from issue to redemption and then look at a second redemption attempt. Write down what each app learned and which permission made that possible. Eight local scenarios were recorded; a deployed issuer, physical-device recovery and independent adoption still need their own evidence.
+
 **Two-app pilot and website integration source.** Let someone carry credit for a contribution from the Greenhouse to a creator screening.
 
 ### Setup and usage
