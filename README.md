@@ -1,5 +1,13 @@
 # Potify ID
 
+## Find your way in
+
+| If you are… | Start here | Try this |
+| --- | --- | --- |
+| A community organizer | [Run the two-app pilot](#setup-and-usage) | See a fixture for contribution credit and a screening pass. |
+| A developer | [Read the pilot](src/pilot.mjs) | Trace the permission and pass through issue and redemption. |
+| A community builder | [Explore the Greenhouse beta](https://github.com/jonathanbabec5-hash/potify-holder-hub) | Compare the separate beta’s data model with this identity pilot. |
+
 [Complete repository directory tree](docs/DIRECTORY.md)
 
 ## Credit that can travel without carrying a whole identity
